@@ -7,5 +7,5 @@ NBA_Stats_Bot.py is the main file that logs in, retrieves comments file, and run
 
 config.py is imported for bot credentials: contains username, password, client id, and client secret. Actual information not given.
 
-
+![ScreenShot](https://github.com/wfar/NBA_Stats_Bot/blob/master/NBA_Stats_Bot/Stats%20bot%20example.png)
 
